@@ -78,7 +78,7 @@ Lec5.ItAb(0);
 
 System.out.println("***********************************************************************************");
 Lectures Lec6=new Lectures();
-Students StInfo6=new Students("IT",2,"Arkan Hasan Hama Amin","B",Lec6);
+Students StInfo6=new Students("IT",3,"Arkan Hasan Hama Amin","B",Lec6);
 System.out.println("Student ID    :"+StInfo6.ID+"\nStudent Name  :"+StInfo6.Name+"\nSt Department :"+StInfo6.Department+"\nStudent Group :"+StInfo6.Group);
 Lec6.MathAb(0);
 Lec6.AlgAb(0);
